@@ -1,7 +1,1 @@
-<div align="center">
-
-
-<img src="obito.svg" width="260" height="260"/>
-
-<br/>
-
+![animacion](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)
